@@ -1,0 +1,47 @@
+[
+  {
+    "id": "scent-001",
+    "name": "Golden Hour",
+    "tagline": "Soft amber, wild rose, and the last light of day.",
+    "price": 46,
+    "size": "50 ml",
+    "family": "Warm",
+    "mood": "Warm · Floral · Sunlit",
+    "colorway": "amber",
+    "notes": ["Soft amber", "Wild rose", "Sun-warmed musk"],
+    "description": "Soft amber, wild rose, and the last light of day.",
+    "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=900&q=85",
+    "imageAlt": "Golden perfume bottle in warm evening light",
+    "featured": true
+  },
+  {
+    "id": "scent-002",
+    "name": "Green Reverie",
+    "tagline": "Crushed leaves, bergamot, and open air.",
+    "price": 38,
+    "size": "50 ml",
+    "family": "Fresh",
+    "mood": "Fresh · Green · Quiet",
+    "colorway": "green",
+    "notes": ["Crushed leaves", "Bergamot", "Green tea"],
+    "description": "Crushed leaves, bergamot, and a breath of open air.",
+    "image": "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=900&q=85",
+    "imageAlt": "Green-toned perfume bottle in soft daylight",
+    "featured": true
+  },
+  {
+    "id": "scent-003",
+    "name": "Afterglow",
+    "tagline": "Velvet woods, pink pepper, and lingering warmth.",
+    "price": 44,
+    "size": "50 ml",
+    "family": "Soft",
+    "mood": "Soft · Spiced · Intimate",
+    "colorway": "rose",
+    "notes": ["Velvet woods", "Pink pepper", "Warm musk"],
+    "description": "Velvet woods, pink pepper, and a lingering warmth.",
+    "image": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=900&q=85",
+    "imageAlt": "Rose-toned perfume bottle in warm soft light",
+    "featured": true
+  }
+]
